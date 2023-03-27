@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<FDSNStationXML xmlns="http://www.fdsn.org/xml/station/1" schemaVersion="1.1">
+  <Source>IRIS-DMC,InfraView</Source>
+  <Sender>IRIS-DMC</Sender>
+  <Module>ObsPy 1.2.2</Module>
+  <ModuleURI>https://www.obspy.org</ModuleURI>
+  <Created>2023-03-21T08:27:21.582383Z</Created>
+  <Network code="IM" startDate="1900-01-01T00:00:00.000000Z">
+    <Description>IM</Description>
+    <Station code="I04H1">
+      <Latitude unit="DEGREES">-34.59761</Latitude>
+      <Longitude unit="DEGREES">116.356689</Longitude>
+      <Elevation unit="METERS">167.1</Elevation>
+      <Site>
+        <Name>I04H1</Name>
+      </Site>
+      <CreationDate>1900-01-01T00:00:00.000000Z</CreationDate>
+      <Channel code="BDF" locationCode="">
+        <Latitude unit="DEGREES">-34.59761</Latitude>
+        <Longitude unit="DEGREES">116.356689</Longitude>
+        <Elevation unit="METERS">167.1</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+      </Channel>
+    </Station>
+  </Network>
+  <Network code="IM" startDate="1900-01-01T00:00:00.000000Z">
+    <Description>IM</Description>
+    <Station code="I06H1">
+      <Latitude unit="DEGREES">-12.14645</Latitude>
+      <Longitude unit="DEGREES">96.82032</Longitude>
+      <Elevation unit="METERS">16.8</Elevation>
+      <Site>
+        <Name>I06H1</Name>
+      </Site>
+      <CreationDate>1900-01-01T00:00:00.000000Z</CreationDate>
+      <Channel code="BDF" locationCode="">
+        <Latitude unit="DEGREES">-12.14645</Latitude>
+        <Longitude unit="DEGREES">96.82032</Longitude>
+        <Elevation unit="METERS">16.8</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+      </Channel>
+    </Station>
+  </Network>
+  <Network code="IM" startDate="1900-01-01T00:00:00.000000Z">
+    <Description>IM</Description>
+    <Station code="I07H1">
+      <Latitude unit="DEGREES">-19.934851</Latitude>
+      <Longitude unit="DEGREES">134.329544</Longitude>
+      <Elevation unit="METERS">385.5</Elevation>
+      <Site>
+        <Name>I07H1</Name>
+      </Site>
+      <CreationDate>1900-01-01T00:00:00.000000Z</CreationDate>
+      <Channel code="BDF" locationCode="">
+        <Latitude unit="DEGREES">-19.934851</Latitude>
+        <Longitude unit="DEGREES">134.329544</Longitude>
+        <Elevation unit="METERS">385.5</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+      </Channel>
+    </Station>
+  </Network>
+  <Network code="IM" startDate="1900-01-01T00:00:00.000000Z">
+    <Description>IM</Description>
+    <Station code="I52H1">
+      <Latitude unit="DEGREES">-7.37779</Latitude>
+      <Longitude unit="DEGREES">72.484169</Longitude>
+      <Elevation unit="METERS">2.3</Elevation>
+      <Site>
+        <Name>I52H1</Name>
+      </Site>
+      <CreationDate>1900-01-01T00:00:00.000000Z</CreationDate>
+      <Channel code="BDF" locationCode="">
+        <Latitude unit="DEGREES">-7.37779</Latitude>
+        <Longitude unit="DEGREES">72.484169</Longitude>
+        <Elevation unit="METERS">2.3</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+      </Channel>
+    </Station>
+  </Network>
+  <Network code="IM" startDate="1965-01-01T00:00:00.000000Z" restrictedStatus="open">
+    <Description>International Miscellaneous Stations (IMS)</Description>
+    <TotalNumberStations>372</TotalNumberStations>
+    <SelectedNumberStations>1</SelectedNumberStations>
+    <Station code="I04H1" startDate="2006-02-01T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-34.59761</Latitude>
+      <Longitude unit="DEGREES">116.356689</Longitude>
+      <Elevation>167.1</Elevation>
+      <Site>
+        <Name>Narrogin Infrasound Array, Site H1, Australia</Name>
+      </Site>
+      <TotalNumberChannels>1</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+  </Network>
+  <Network code="IM" startDate="1965-01-01T00:00:00.000000Z" restrictedStatus="open">
+    <Description>International Miscellaneous Stations (IMS)</Description>
+    <TotalNumberStations>372</TotalNumberStations>
+    <SelectedNumberStations>1</SelectedNumberStations>
+    <Station code="I06H1" startDate="2011-10-31T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-12.14645</Latitude>
+      <Longitude unit="DEGREES">96.82032</Longitude>
+      <Elevation>16.8</Elevation>
+      <Site>
+        <Name>Cocos Islands Infrasound Array, Site H1, Australia</Name>
+      </Site>
+      <TotalNumberChannels>1</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+  </Network>
+  <Network code="IM" startDate="1965-01-01T00:00:00.000000Z" restrictedStatus="open">
+    <Description>International Miscellaneous Stations (IMS)</Description>
+    <TotalNumberStations>372</TotalNumberStations>
+    <SelectedNumberStations>1</SelectedNumberStations>
+    <Station code="I07H1" startDate="2000-05-12T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-19.934851</Latitude>
+      <Longitude unit="DEGREES">134.329544</Longitude>
+      <Elevation>385.5</Elevation>
+      <Site>
+        <Name>Warramunga Infrasonic Array, Site I07H1, Australia</Name>
+      </Site>
+      <TotalNumberChannels>1</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+  </Network>
+  <Network code="IM" startDate="1965-01-01T00:00:00.000000Z" restrictedStatus="open">
+    <Description>International Miscellaneous Stations (IMS)</Description>
+    <TotalNumberStations>372</TotalNumberStations>
+    <SelectedNumberStations>1</SelectedNumberStations>
+    <Station code="I52H1" startDate="2002-12-18T00:00:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-7.37779</Latitude>
+      <Longitude unit="DEGREES">72.484169</Longitude>
+      <Elevation>2.3</Elevation>
+      <Site>
+        <Name>Diego Garcia infrasound array site H1, United Kingdom</Name>
+        <Country>United Kingdom</Country>
+      </Site>
+      <CreationDate>2002-12-18T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>6</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+  </Network>
+</FDSNStationXML>
