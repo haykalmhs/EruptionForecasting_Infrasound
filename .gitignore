@@ -8954,3 +8954,9 @@ data/train/2146270165.csv
 data/train/2146361020.csv
 data/train/2146908755.csv
 data/train/2146939378.csv
+data/data_availability.csv
+data/eruption_dates.csv
+data/IM.I04H1..BDF.MSEED
+data/IM.I06H1..BDF.MSEED
+data/IM.I07H1..BDF.MSEED
+data/IM.I52H1..BDF.MSEED
